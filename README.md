@@ -20,3 +20,10 @@ As application developers, we desire the packaging system to be able to:
 
 Python application packaging problem has been around. There are multiple online tutorials dealing with a subset of the 
 above requirements. `py2bin` shows how to address all of the above. 
+
+# How to run
+
+1. Clone the repository.
+2. Make sure `numpy`, `sklearn` and `pyinstaller` are installed.
+3. run `./compile.sh`
+4. run `dist/main <integer>` e.g. `dist/main 20`
