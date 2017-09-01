@@ -1,0 +1,14 @@
+**.DS_STORE**
+.idea
+*.txt
+*.CSV
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.zip
+*.pyx
+*.pyc
+*.png
+*.gif
+*.pkl
